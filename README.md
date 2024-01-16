@@ -1,8 +1,6 @@
 # Awesome Gamedev
 
-A list of useful resources for game dev.
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A list of useful resources for game dev. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## General Guides
 - [Advertise your game](/guides/how-to-advertise-your-game.md)
