@@ -46,7 +46,7 @@ A list of useful resources for game dev. [![Awesome](https://awesome.re/badge.sv
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 - [Clip Studio](https://www.clipstudio.net/en/)
 - [Procreate](https://procreate.com/)
-- 
+- [Blender](https://www.blender.org/)
 
 
 
