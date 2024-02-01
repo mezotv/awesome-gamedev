@@ -33,10 +33,6 @@ Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Su
 ## Streaming & Recording
 Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lobortis eu orci a congue. Sed tempor nec augue eu tincidunt. Vivamus pharetra tincidunt velit, sed commodo sem blandit nec. Nunc nunc lacus, euismod nec pretium vel, elementum quis dui. Praesent id neque eu dui dictum porta. Phasellus libero nisi, aliquam a est ac, tristique sollicitudin velit. Duis vestibulum orci et urna aliquet, vitae aliquam arcu pulvinar. Integer porta libero ac odio condimentum venenatis. In fringilla tortor ligula, in facilisis enim dictum sit amet. Mauris nulla ex, eleifend quis quam et, fermentum accumsan ante. Maecenas sit amet odio tortor. Nullam at libero sit amet sapien vulputate laoreet.
 
-| Name | Links                                                                                                                                      |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| OBS-Studio     | [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/) |
-
 - [OpenBroadcastSoftware](https://obsproject.com/) - [OpenBroadcastSoftware-SourceCode](https://github.com/obsproject)
 - [VB-Audio](https://vb-audio.com/Cable/)
 
@@ -55,7 +51,5 @@ Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Su
 ## Project Management and Notetaking
 Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lobortis eu orci a congue. Sed tempor nec augue eu tincidunt. Vivamus pharetra tincidunt velit, sed commodo sem blandit nec. Nunc nunc lacus, euismod nec pretium vel, elementum quis dui. Praesent id neque eu dui dictum porta. Phasellus libero nisi, aliquam a est ac, tristique sollicitudin velit. Duis vestibulum orci et urna aliquet, vitae aliquam arcu pulvinar. Integer porta libero ac odio condimentum venenatis. In fringilla tortor ligula, in facilisis enim dictum sit amet. Mauris nulla ex, eleifend quis quam et, fermentum accumsan ante. Maecenas sit amet odio tortor. Nullam at libero sit amet sapien vulputate laoreet.
 
-| Name     | Links                                                                                                                                      |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Obsidian | [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/) |
-| Notion   | [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)     |
+- [Notion](https://www.notion.so/)
+- [Obsidian](https://obsidian.md/)
