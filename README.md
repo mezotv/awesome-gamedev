@@ -23,7 +23,7 @@ A list of useful resources for game dev. [![Awesome](https://awesome.re/badge.sv
 ## Streaming, Recording
 - _Note: also known as OBS._ -[OpenBroadcastSoftware](https://obsproject.com/) - [OpenBroadcastSoftware-SourceCode](https://github.com/obsproject)
 - _Note: Aderivat of OBS._ - [Streamlabs OBS](https://streamlabs.com/)
-- [VB-Audio](https://vb-audio.com/Cable/) - Add virtual audio cables to your system. Useful for routing
+- [VB-Audio](https://vb-audio.com/Cable/) - Add virtual audio cables to your system. Useful for routing.
 
 ### Open Broadcast Software
 - [FiniteSingularity-OBS-Plugins](https://github.com/finitesingularity) - Different Plugins for creating live rendered effects for the stream. **Warning: Can occupy a lot of performance from the Streaming Device!** - Watch the Development here [![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/finitesingularity) 
@@ -37,8 +37,16 @@ A list of useful resources for game dev. [![Awesome](https://awesome.re/badge.sv
 | Obsidian | [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)      |
 | Notion | [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)      |
 
+## Art and Image Manipulation
 
-
+- [Gimp](https://www.gimp.org/)
+- [Magma](https://magma.com/)
+- [Krita](https://krita.org/)
+- [Aseprite](https://www.aseprite.org/) - **Steam-Link missing**
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+- [Clip Studio](https://www.clipstudio.net/en/)
+- [Procreate](https://procreate.com/)
+- 
 
 
 
