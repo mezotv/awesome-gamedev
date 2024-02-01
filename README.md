@@ -3,7 +3,7 @@
 A list of useful resources for game dev. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Authors
-Contribute in a meaningful way to this list and get featured! No idea what to contribute? Check out the [contribution guidelines]() and [issues](https://github.com/mezotv/awesome-gamedev/issues) and see where we need help!
+Contribute in a meaningful way to this list and get featured! No idea what to contribute? Check out the [contribution guidelines]() and [issues](https://github.com/mezotv/awesome-gamedev/issues) to see where we need help!
 
 | Name       | Socials                                                                                                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,10 +44,11 @@ Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Su
 Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lobortis eu orci a congue. Sed tempor nec augue eu tincidunt. Vivamus pharetra tincidunt velit, sed commodo sem blandit nec. Nunc nunc lacus, euismod nec pretium vel, elementum quis dui. Praesent id neque eu dui dictum porta. Phasellus libero nisi, aliquam a est ac, tristique sollicitudin velit. Duis vestibulum orci et urna aliquet, vitae aliquam arcu pulvinar. Integer porta libero ac odio condimentum venenatis. In fringilla tortor ligula, in facilisis enim dictum sit amet. Mauris nulla ex, eleifend quis quam et, fermentum accumsan ante. Maecenas sit amet odio tortor. Nullam at libero sit amet sapien vulputate laoreet.
 
 ### Open Broadcast Software
-- [FiniteSingularity-OBS-Plugins](https://github.com/finitesingularity) - Different Plugins for creating live rendered effects for the stream. **Warning: Can occupy a lot of performance from the Streaming Device!** - Watch the Development here [![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/finitesingularity) 
 - [AdvancedSceneSwitcher](https://obsproject.com/forum/resources/advanced-scene-switcher.395/) - Very useful for MultiMonitorSetups to control Scenes on more complex Macros.
 - [Move](https://obsproject.com/forum/resources/move.913/) - Adds Transitions, Filters and Effects for moving Sources.
 
+> [!NOTE]
+> **FiniteSingularity Note**: Different Plugins for creating live rendered effects. Use with Caution though, can be very intense on the streaming device. Also you can watch the development on [FiniteSingularities Twitch Channel](https://www.twitch.tv/finitesingularity)
 ## Project Management and Notetaking
 Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lobortis eu orci a congue. Sed tempor nec augue eu tincidunt. Vivamus pharetra tincidunt velit, sed commodo sem blandit nec. Nunc nunc lacus, euismod nec pretium vel, elementum quis dui. Praesent id neque eu dui dictum porta. Phasellus libero nisi, aliquam a est ac, tristique sollicitudin velit. Duis vestibulum orci et urna aliquet, vitae aliquam arcu pulvinar. Integer porta libero ac odio condimentum venenatis. In fringilla tortor ligula, in facilisis enim dictum sit amet. Mauris nulla ex, eleifend quis quam et, fermentum accumsan ante. Maecenas sit amet odio tortor. Nullam at libero sit amet sapien vulputate laoreet.
 
