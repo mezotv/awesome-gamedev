@@ -49,6 +49,8 @@ Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Su
 
 > [!NOTE]
 > **FiniteSingularity Note**: Different Plugins for creating live rendered effects. Use with Caution though, can be very intense on the streaming device. Also you can watch the development on [FiniteSingularities Twitch Channel](https://www.twitch.tv/finitesingularity)
+- [FiniteSingularity](https://github.com/FiniteSingularity?tab=repositories)
+
 ## Project Management and Notetaking
 Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lobortis eu orci a congue. Sed tempor nec augue eu tincidunt. Vivamus pharetra tincidunt velit, sed commodo sem blandit nec. Nunc nunc lacus, euismod nec pretium vel, elementum quis dui. Praesent id neque eu dui dictum porta. Phasellus libero nisi, aliquam a est ac, tristique sollicitudin velit. Duis vestibulum orci et urna aliquet, vitae aliquam arcu pulvinar. Integer porta libero ac odio condimentum venenatis. In fringilla tortor ligula, in facilisis enim dictum sit amet. Mauris nulla ex, eleifend quis quam et, fermentum accumsan ante. Maecenas sit amet odio tortor. Nullam at libero sit amet sapien vulputate laoreet.
 
