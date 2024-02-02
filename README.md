@@ -23,12 +23,35 @@ Game engines are vital tools in game development, offering a framework for desig
 - [GameMaker](https://www.yoyogames.com/en/gamemaker)
 - [Godot](https://godotengine.org/) - [Godot-SourceCode](https://github.com/godotengine/godot)
 - [MonoGame](https://www.monogame.net/) - [MonoGame-SourceCode](https://github.com/monogame/monogame)
+- [Pygame](https://www.pygame.org/)
+- [Renpy](https://www.renpy.org/)
 - [RPGMaker](https://www.rpgmakerweb.com/)
 - [Unreal Engine](https://www.unrealengine.com/en-US/) - [Unreal-SourceCode (Github member only)](https://github.com/EpicGames/UnrealEngine)
 
 > [!CAUTION] 
 > **Unity Note**: Unity had plans to charge developers for every download of their game. But it later scrapped the idea after a negative backlash.
 - [Unity](https://unity.com/)
+
+## Art and Image Manipulation
+Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lobortis eu orci a congue. Sed tempor nec augue eu tincidunt. Vivamus pharetra tincidunt velit, sed commodo sem blandit nec. Nunc nunc lacus, euismod nec pretium vel, elementum quis dui. Praesent id neque eu dui dictum porta. Phasellus libero nisi, aliquam a est ac, tristique sollicitudin velit. Duis vestibulum orci et urna aliquet, vitae aliquam arcu pulvinar. Integer porta libero ac odio condimentum venenatis. In fringilla tortor ligula, in facilisis enim dictum sit amet. Mauris nulla ex, eleifend quis quam et, fermentum accumsan ante. Maecenas sit amet odio tortor. Nullam at libero sit amet sapien vulputate laoreet.
+
+- [Gimp](https://www.gimp.org/)
+- [Magma](https://magma.com/)
+- [Krita](https://krita.org/)
+- [Aseprite](https://www.aseprite.org/) - **Steam-Link missing**
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+- [Clip Studio](https://www.clipstudio.net/en/)
+- [Procreate](https://procreate.com/)
+- [Blender](https://www.blender.org/)
+
+## Music and Sound Manipulation
+Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lobortis eu orci a congue. Sed tempor nec augue eu tincidunt. Vivamus pharetra tincidunt velit, sed commodo sem blandit nec. Nunc nunc lacus, euismod nec pretium vel, elementum quis dui. Praesent id neque eu dui dictum porta. Phasellus libero nisi, aliquam a est ac, tristique sollicitudin velit. Duis vestibulum orci et urna aliquet, vitae aliquam arcu pulvinar. Integer porta libero ac odio condimentum venenatis. In fringilla tortor ligula, in facilisis enim dictum sit amet. Mauris nulla ex, eleifend quis quam et, fermentum accumsan ante. Maecenas sit amet odio tortor. Nullam at libero sit amet sapien vulputate laoreet.
+
+- [Ableton Live](https://www.ableton.com/en/live/)
+- [Anvil Studio](https://www.anvilstudio.com/)
+- [Audactiy](https://www.audacityteam.org/)
+- [FamiStudio](https://famistudio.org/)
+- [FL Studio](https://www.image-line.com/fl-studio)
 
 ## Streaming and Recording
 Dive into our Streaming and Recording section, where innovation meets performance. Unleash the power of seamless live streaming and crystal-clear recordings with our curated selection of top-tier equipment and software solutions.
