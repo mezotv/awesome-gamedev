@@ -38,7 +38,7 @@ Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Su
 - [Gimp](https://www.gimp.org/)
 - [Magma](https://magma.com/)
 - [Krita](https://krita.org/)
-- [Aseprite](https://www.aseprite.org/) - **Steam-Link missing**
+- [Aseprite](https://www.aseprite.org/) - [Aseprite-Steam](https://store.steampowered.com/app/431730/Aseprite/)
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 - [Clip Studio](https://www.clipstudio.net/en/)
 - [Procreate](https://procreate.com/)
