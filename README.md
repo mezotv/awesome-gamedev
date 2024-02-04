@@ -69,6 +69,7 @@ Dive into endless possibilities with Plugins and Extensions. Tailor your experie
 ### Open Broadcast Software
 - [AdvancedSceneSwitcher](https://obsproject.com/forum/resources/advanced-scene-switcher.395/) - Very useful for MultiMonitorSetups to control Scenes on more complex Macros.
 - [Move](https://obsproject.com/forum/resources/move.913/) - Adds Transitions, Filters and Effects for moving Sources.
+- [VDO.Ninja](https://vdo.ninja/) - Formerly knows as OBS Ninja
 
 > [!NOTE]
 > **FiniteSingularity Note**: Different Plugins for creating live rendered effects. Use with Caution though, can be very intense on the streaming device. Also you can watch the development on [FiniteSingularities Twitch Channel](https://www.twitch.tv/finitesingularity)
