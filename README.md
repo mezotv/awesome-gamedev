@@ -33,7 +33,7 @@ Game engines are vital tools in game development, offering a framework for desig
 - [Unity](https://unity.com/)
 
 ## Art and Image Manipulation
-Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lobortis eu orci a congue. Sed tempor nec augue eu tincidunt. Vivamus pharetra tincidunt velit, sed commodo sem blandit nec. Nunc nunc lacus, euismod nec pretium vel, elementum quis dui. Praesent id neque eu dui dictum porta. Phasellus libero nisi, aliquam a est ac, tristique sollicitudin velit. Duis vestibulum orci et urna aliquet, vitae aliquam arcu pulvinar. Integer porta libero ac odio condimentum venenatis. In fringilla tortor ligula, in facilisis enim dictum sit amet. Mauris nulla ex, eleifend quis quam et, fermentum accumsan ante. Maecenas sit amet odio tortor. Nullam at libero sit amet sapien vulputate laoreet.
+Explore the realm of visual creativity with our 'Art and Image Manipulation' section. Unleash your artistic potential as you delve into techniques, tools, and inspiration for digital artistry, graphic design, and image manipulation.
 
 - [Gimp](https://www.gimp.org/)
 - [Magma](https://magma.com/)
@@ -45,7 +45,7 @@ Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Su
 - [Blender](https://www.blender.org/)
 
 ## Music and Sound Manipulation
-Section describtion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lobortis eu orci a congue. Sed tempor nec augue eu tincidunt. Vivamus pharetra tincidunt velit, sed commodo sem blandit nec. Nunc nunc lacus, euismod nec pretium vel, elementum quis dui. Praesent id neque eu dui dictum porta. Phasellus libero nisi, aliquam a est ac, tristique sollicitudin velit. Duis vestibulum orci et urna aliquet, vitae aliquam arcu pulvinar. Integer porta libero ac odio condimentum venenatis. In fringilla tortor ligula, in facilisis enim dictum sit amet. Mauris nulla ex, eleifend quis quam et, fermentum accumsan ante. Maecenas sit amet odio tortor. Nullam at libero sit amet sapien vulputate laoreet.
+Explore the intricate world of Music and Sound Manipulation, where creativity meets technology. Delve into the art of crafting immersive auditory experiences, mastering the tools that shape melodies, beats, and atmospheres, transcending boundaries to create sonic masterpieces.
 
 - [Ableton Live](https://www.ableton.com/en/live/)
 - [Anvil Studio](https://www.anvilstudio.com/)
