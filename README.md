@@ -63,7 +63,7 @@ Dive into our Streaming and Recording section, where innovation meets performanc
 > **Streamlabs Desktop Note**: Streamlabs Desktop is build on top of the OBS engine.
 - [Streamlabs Desktop](https://streamlabs.com/de-de/streamlabs-live-streaming-software)
 
-## Plugins and Extenstion
+## Plugins and Extensions
 Dive into endless possibilities with Plugins and Extensions. Tailor your experience, add new features, and enjoy a personalized journey. Explore a world of seamless integrations and effortlessly amplify your platform's capabilities.
 
 ### Open Broadcast Software
