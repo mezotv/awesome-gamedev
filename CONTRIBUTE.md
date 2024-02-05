@@ -6,10 +6,15 @@ The following rules and styles should apply if you want your commit to be accept
 2. Each list is to be sorted alphabetically and ascending!
 3. If an entry needs one of the following additions:
 > [!NOTE]
+
 > [!TIP]
+
 > [!IMPORTANT]
+
 > [!WARNING]
+
 > [!CAUTION]
+
 then the entry must be put to the end of the section/list.
 4. If there are multiple entries with additions then the following applies:
     1. Sort by Addition-Type as seen in 3.
