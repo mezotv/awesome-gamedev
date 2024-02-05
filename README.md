@@ -3,7 +3,7 @@
 A list of useful resources for game dev. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Authors
-Contribute in a meaningful way to this list and get featured! No idea what to contribute? Check out the [contribution guidelines]() and [issues](https://github.com/mezotv/awesome-gamedev/issues) to see where we need help!
+Contribute in a meaningful way to this list and get featured! No idea what to contribute? Check out the [contribution guidelines](./CONTRIBUTE.md) and [issues](https://github.com/mezotv/awesome-gamedev/issues) to see where we need help!
 
 | Name       | Socials                                                                                                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,6 +31,13 @@ Game engines are vital tools in game development, offering a framework for desig
 > [!CAUTION] 
 > **Unity Note**: Unity had plans to charge developers for every download of their game. But it later scrapped the idea after a negative backlash.
 - [Unity](https://unity.com/)
+
+## Video Manipulation
+Explore the art of Video Manipulation, where creative minds weave visual narratives through editing, effects, and digital wizardry. Dive into a world where reality meets imagination, shaping captivating stories with the power of video transformation.
+
+- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
+- [Adobe Premiere](https://www.adobe.com/products/premiere.html)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 
 ## Art and Image Manipulation
 Explore the realm of visual creativity with our 'Art and Image Manipulation' section. Unleash your artistic potential as you delve into techniques, tools, and inspiration for digital artistry, graphic design, and image manipulation.
@@ -75,9 +82,38 @@ Dive into endless possibilities with Plugins and Extensions. Tailor your experie
 > **FiniteSingularity Note**: Different Plugins for creating live rendered effects. Use with Caution though, can be very intense on the streaming device. Also you can watch the development on [FiniteSingularities Twitch Channel](https://www.twitch.tv/finitesingularity)
 - [FiniteSingularity](https://github.com/FiniteSingularity?tab=repositories)
 
+### Streaming
+- [Fossabot](https://fossabot.com/)
+- [Moobot](https://moo.bot/)
+- [Nightbot](https://nightbot.tv/)
+- [OWN3D](https://www.own3d.pro/en/features/obs-chatbot)
+- [Streambot](https://streambot.com/)
+- [StreamElements](https://streamelements.com/)
+- [Streamer.bot](https://streamer.bot/)
+- [Streamlabs](https://streamlabs.com/)
+- [Wizebot](https://wizebot.tv/en/index)
+
 ## Project Management and Notetaking
 Elevate project efficiency and organization with advanced Project Management and Notetaking tools. Seamlessly collaborate, track progress, and enhance productivity through user-friendly features tailored for effective project oversight and streamlined note management.
 
 - [draw.io](https://draw.io)
 - [Notion](https://www.notion.so/)
 - [Obsidian](https://obsidian.md/)
+
+## Application and Game Distribution
+Dive into the realm of Application and Game Distribution, where digital innovation meets user experience. Uncover diverse channels, strategies, and platforms shaping the seamless delivery of interactive content to audiences worldwide.
+
+- [itch.io](https://itch.io/)
+- [Steam](https://partner.steamgames.com/steamdirect)
+- [GOG](https://www.gog.com/submit-your-game)
+
+## Social Media
+Explore the dynamic realm of Social Media, where individuals connect, share, and engage across virtual landscapes. From viral trends to real-time updates, this section delves into the ever-evolving platforms shaping modern communication and digital culture.
+
+- [Facebook](https://www.facebook.com/)
+- [Instagram](https://www.instagram.com/)
+- [Kick](https://kick.com/)
+- [LinkedIn](https://www.linkedin.com/)
+- [TikTok](https://www.tiktok.com/)
+- [Twitch](https://www.twitch.tv/)
+- [YouTube](https://www.youtube.com/)
