@@ -9,12 +9,16 @@ The following rules and styles should apply if you want your commit to be accept
 > ...
 
 > [!TIP]
+> ...
 
 > [!IMPORTANT]
+> ...
 
 > [!WARNING]
+> ...
 
 > [!CAUTION]
+> ...
 
 then the entry must be put to the end of the section/list.
 4. If there are multiple entries with additions then the following applies:
