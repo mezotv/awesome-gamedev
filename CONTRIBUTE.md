@@ -21,6 +21,7 @@ The following rules and styles should apply if you want your commit to be accept
 > ...
 
 then the entry must be put to the end of the section/list.
+
 4. If there are multiple entries with additions then the following applies:
     1. Sort by Addition-Type as seen in 3.
     2. If 2 entries have the same addition then sort by name of entry alphabetically and ascending!
