@@ -7,8 +7,8 @@ Contribute in a meaningful way to this list and get featured! No idea what to co
 
 | Name       | Socials                                                                                                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| mezotv     | [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&color=181717)](https://github.com/mezotv)[![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/iamamerlin)          |
-| IAmAMerlin | [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&color=181717)](https://github.com/merlinseela)[![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/dominikdoesdev) |
+| mezotv     | [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&color=181717)](https://github.com/mezotv)[![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/dominikdoesdev)          |
+| IAmAMerlin | [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&color=181717)](https://github.com/merlinseela)[![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/iamamerlin) |
 
 ## General Guides
 Explore concise and expert Guides for quick mastery of diverse topics, offering actionable insights and empowering you with valuable knowledge.
