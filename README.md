@@ -3,7 +3,7 @@
 A list of useful resources for game dev. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Authors
-Contribute in a meaningful way to this list and get featured! No idea what to contribute? Check out the [contribution guidelines]() and [issues](https://github.com/mezotv/awesome-gamedev/issues) to see where we need help!
+Contribute in a meaningful way to this list and get featured! No idea what to contribute? Check out the [contribution guidelines](./CONTRIBUTE.md) and [issues](https://github.com/mezotv/awesome-gamedev/issues) to see where we need help!
 
 | Name       | Socials                                                                                                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
