@@ -121,9 +121,6 @@ Explore the dynamic realm of Social Media, where individuals connect, share, and
 ## Contributors
 Shout out to the awesome people who contributed to this awesome list!
 
-<div align="center">
 <a href="https://github.com/mezotv/awesome-gamedev/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mezotv/awesome-gamedev&max=1000&columns=11" width=97%/>
+  <img src="https://contrib.rocks/image?repo=mezotv/awesome-gamedev&max=1000&columns=11"/>
 </a>
-</div>
-
