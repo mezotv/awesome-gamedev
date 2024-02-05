@@ -6,6 +6,7 @@ The following rules and styles should apply if you want your commit to be accept
 2. Each list is to be sorted alphabetically and ascending!
 3. If an entry needs one of the following additions:
 > [!NOTE]
+> ...
 
 > [!TIP]
 
