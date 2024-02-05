@@ -103,9 +103,9 @@ Elevate project efficiency and organization with advanced Project Management and
 ## Application and Game Distribution
 Dive into the realm of Application and Game Distribution, where digital innovation meets user experience. Uncover diverse channels, strategies, and platforms shaping the seamless delivery of interactive content to audiences worldwide.
 
+- [GOG](https://www.gog.com/submit-your-game)
 - [itch.io](https://itch.io/)
 - [Steam](https://partner.steamgames.com/steamdirect)
-- [GOG](https://www.gog.com/submit-your-game)
 
 ## Social Media
 Explore the dynamic realm of Social Media, where individuals connect, share, and engage across virtual landscapes. From viral trends to real-time updates, this section delves into the ever-evolving platforms shaping modern communication and digital culture.
