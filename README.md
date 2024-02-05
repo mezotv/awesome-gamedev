@@ -75,6 +75,17 @@ Dive into endless possibilities with Plugins and Extensions. Tailor your experie
 > **FiniteSingularity Note**: Different Plugins for creating live rendered effects. Use with Caution though, can be very intense on the streaming device. Also you can watch the development on [FiniteSingularities Twitch Channel](https://www.twitch.tv/finitesingularity)
 - [FiniteSingularity](https://github.com/FiniteSingularity?tab=repositories)
 
+### Streaming
+- [Fossabot](https://fossabot.com/)
+- [Moobot](https://moo.bot/)
+- [Nightbot](https://nightbot.tv/)
+- [OWN3D](https://www.own3d.pro/en/features/obs-chatbot)
+- [Streambot](https://streambot.com/)
+- [StreamElements](https://streamelements.com/)
+- [Streamer.bot](https://streamer.bot/)
+- [Streamlabs](https://streamlabs.com/)
+- [Wizebot](https://wizebot.tv/en/index)
+
 ## Project Management and Notetaking
 Elevate project efficiency and organization with advanced Project Management and Notetaking tools. Seamlessly collaborate, track progress, and enhance productivity through user-friendly features tailored for effective project oversight and streamlined note management.
 
