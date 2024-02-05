@@ -32,6 +32,13 @@ Game engines are vital tools in game development, offering a framework for desig
 > **Unity Note**: Unity had plans to charge developers for every download of their game. But it later scrapped the idea after a negative backlash.
 - [Unity](https://unity.com/)
 
+## Video Manipulation
+Explore the art of Video Manipulation, where creative minds weave visual narratives through editing, effects, and digital wizardry. Dive into a world where reality meets imagination, shaping captivating stories with the power of video transformation.
+
+- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
+- [Adobe Premiere](https://www.adobe.com/products/premiere.html)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+
 ## Art and Image Manipulation
 Explore the realm of visual creativity with our 'Art and Image Manipulation' section. Unleash your artistic potential as you delve into techniques, tools, and inspiration for digital artistry, graphic design, and image manipulation.
 
