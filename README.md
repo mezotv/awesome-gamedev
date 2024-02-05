@@ -98,3 +98,21 @@ Elevate project efficiency and organization with advanced Project Management and
 
 - [Notion](https://www.notion.so/)
 - [Obsidian](https://obsidian.md/)
+
+## Application and Game Distribution
+Dive into the realm of Application and Game Distribution, where digital innovation meets user experience. Uncover diverse channels, strategies, and platforms shaping the seamless delivery of interactive content to audiences worldwide.
+
+- [itch.io](https://itch.io/)
+- [Steam](https://partner.steamgames.com/steamdirect)
+- [GOG](https://www.gog.com/submit-your-game)
+
+## Social Media
+Explore the dynamic realm of Social Media, where individuals connect, share, and engage across virtual landscapes. From viral trends to real-time updates, this section delves into the ever-evolving platforms shaping modern communication and digital culture.
+
+- [Facebook](https://www.facebook.com/)
+- [Instagram](https://www.instagram.com/)
+- [Kick](https://kick.com/)
+- [LinkedIn](https://www.linkedin.com/)
+- [TikTok](https://www.tiktok.com/)
+- [Twitch](https://www.twitch.tv/)
+- [YouTube](https://www.youtube.com/)
