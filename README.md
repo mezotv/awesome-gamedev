@@ -96,6 +96,7 @@ Dive into endless possibilities with Plugins and Extensions. Tailor your experie
 ## Project Management and Notetaking
 Elevate project efficiency and organization with advanced Project Management and Notetaking tools. Seamlessly collaborate, track progress, and enhance productivity through user-friendly features tailored for effective project oversight and streamlined note management.
 
+- [draw.io](https://draw.io)
 - [Notion](https://www.notion.so/)
 - [Obsidian](https://obsidian.md/)
 
