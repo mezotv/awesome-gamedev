@@ -1,6 +1,6 @@
 # Contribution Guidelines Awesome Gamedev
 
-The following rules and styles should apply if you want your commit to be accepted to the list.
+The following rules and styles should apply if you want your commit to be accepted to the list!
 
 1. Each list entry must be unique! If an Application, Website, ... could fit multiple sections, then open an issue and wait for feedback/discussion.
 2. Each list is to be sorted alphabetically and ascending!
